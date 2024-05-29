@@ -1,0 +1,1 @@
+websites = ['codewars' for n in range(1000)]
